@@ -1,0 +1,17 @@
+h1 {
+    padding: 40;
+    text-align: center;
+}
+h5 {
+    text-align: center;
+    padding: 10;
+}
+h6 {
+    padding: auto;
+    text-align: center;
+}
+
+input{
+    margin: auto;
+    display: block;
+}
